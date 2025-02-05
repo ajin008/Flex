@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .bg-btn {
+    background-color: #323232;
+  }
+  .bg-btn2 {
+    background-color: #6446c4;
+  }
+  .bg-btn3 {
+    background-color: #3a2a6e;
+  }
+  .text-primary {
+    color: #edeffc;
+  }
+  .text-secondary {
+    color: #73758c;
+  }
+}

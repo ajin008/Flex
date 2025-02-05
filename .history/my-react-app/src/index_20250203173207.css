@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .bg-btn {
+    background-color: #323232;
+  }
+  
+}
